@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">温度转换</string>
+    <string name="txt" translatable="false">结果</string>
+    <string name="btn1" translatable="false">转换为华氏度</string>
+    <string name="inp" translatable="false">请输入摄氏度</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">temperature</string>
+    <string name="txt" translatable="false">the result</string>
+    <string name="btn1" translatable="false">convert to Fahrenheit</string>
+    <string name="inp" translatable="false">Please input degree celsius</string>
+</resources>
